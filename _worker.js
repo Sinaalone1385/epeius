@@ -1,7 +1,7 @@
 
 import { connect } from "cloudflare:sockets";
 
-let password = '';
+let password = '1100miaoo';
 let proxyIP = '';
 let DNS64Server = '';
 //let sub = '';
